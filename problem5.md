@@ -1,5 +1,7 @@
 ### Problem 5: Shopping Cart System
 
+---
+
 **Problem Statement:**
 
 You are developing an advanced shopping cart system for an online marketplace. In this application, you will create classes to manage products, handle cart operations, and simulate data fetching from an external server. The shopping cart should handle products dynamically, providing functionality to add, remove, update quantities, and calculate total prices for the items. 
